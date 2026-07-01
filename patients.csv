@@ -1,0 +1,7 @@
+name,age,weight_kg,department,diagnosis,admitted_date
+John Doe,45,72.5,Cardiology,Hypertension,2026-06-15
+Jane Smith,32,60.0,Pediatrics,Asthma,2026-06-20
+Ahmed Ben Ali,58,85.0,Cardiology,Type 2 Diabetes,2026-06-10
+Sara Trabelsi,27,55.5,Obstetrics,Prenatal Checkup,2026-06-25
+Mohamed Gharbi,63,78.0,Neurology,Migraine,2026-06-18
+Peak Performance Co.,0,0,Corporate,N/A,2026-01-01
